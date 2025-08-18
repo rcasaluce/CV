@@ -2,17 +2,15 @@
 
 # Roberto Casaluce
 
-Research Fellow in Social Statistics • Ph.D. (AI for Society) • Data Science & Process Mining
-
-[GitHub](https://github.com/rcasaluce) · [Google Scholar](https://scholar.google.com/citations?user=IhaFEzIAAAAJ&hl=it) · [Email](mailto:rcasaluce@yahoo.co.uk)
+Research Fellow in Social Statistics • Ph.D. (AI for Society) 
 
 ---
 
 ## Personal Information
 
-- **Name:** CASALUCE ROBERTO  
-- **GitHub:** https://github.com/rcasaluce  
-- **Google Scholar:** https://scholar.google.com/citations?user=IhaFEzIAAAAJ&hl=it  
+ 
+- [GitHub](https://github.com/rcasaluce)
+- [Google Scholar](https://scholar.google.com/citations?user=IhaFEzIAAAAJ&hl=it) 
 - **Email:** rcasaluce@yahoo.co.uk
 
 ---
