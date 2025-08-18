@@ -1,7 +1,5 @@
 
 
-# Roberto Casaluce
-
 Research Fellow in Social Statistics • Ph.D. (AI for Society) 
 
 ---
@@ -46,14 +44,14 @@ Research Fellow in Social Statistics • Ph.D. (AI for Society)
 
 ---
 
-### Research Assistant — ETH Zurich (Haldeneggsteig 4, 8006 Zürich, Schweiz)
+### Research Assistant — ETH Zurich 
 **Dates:** 01/10/2020 – 31/03/2021  
 **Sector:** Education/Research  
 **Activities:** Extended MSc project with new experiments and additional patents for other clean energy technologies. Built automated classification models of clean energy storage technologies to implement a quantitative approach for measuring technological complexity at scale. Aimed to support decision-makers in implementing public policies that encourage clean energy technological innovation. Publication as co-author expected summer 2021 (see **Working Papers**).
 
 ---
 
-### Master’s Thesis Project — ETH Zurich (Haldeneggsteig 4, 8006 Zürich, Schweiz)
+### Master’s Thesis Project — ETH Zurich 
 **Dates:** 01/02/2020 – 30/09/2020  
 **Sector:** Education/Research  
 **Degree:** MSc in Data Science (Birkbeck, University of London)  
@@ -194,19 +192,6 @@ Research Fellow in Social Statistics • Ph.D. (AI for Society)
 
 **Mother tongue:** Italian  
 **Other language:** English
-
-
-
-### Interpersonal and Communication Skills
-
-- Excellent communication skills in Italian, developed during university studies in Trieste and work experience at the Genertel claims office call centre and CIOFS FP FVG.  
-- Excellent communication skills in English, developed during university studies in London and international work experience.  
-- Excellent ability to work collaboratively and individually in international environments.
-
-### Organisational Skills and Competences
-
-- Excellent organisational skills developed by coordinating studies and work commitments abroad (London, 2014–2020).  
-- Excellent deadline management skills developed while working simultaneously in two roles at Goldsmiths Library in 2019 (Library Assistant and System Assistant Technician) while attending the MSc in Data Science.
 
 ### Technical Skills and Competences
 
