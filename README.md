@@ -1,9 +1,4 @@
 
-
-Research Fellow in Social Statistics • Ph.D. (AI for Society) 
-
----
-
 ## Personal Information
 
  
