@@ -26,7 +26,7 @@
 
 ---
 
-### Research Fellow (7-month Postgraduate research grant) — Sant'Anna School of Advanced Studies, Pisa
+### Research Fellow — Sant'Anna School of Advanced Studies, Pisa
 **Dates:** 01/04/2021 – 30/10/2021  
 **Sector:** Education/Research  
 **Project:** Support to the development of the Predictive Justice platform  
