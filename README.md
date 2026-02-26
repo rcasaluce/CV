@@ -85,7 +85,7 @@ Research Fellow (7-month postgraduate research grant) — Sant'Anna School of Ad
 
 ## Selected research outputs and professional activities
 
-<details>
+
 <summary><strong>Publications</strong></summary>
 
 - Casaluce, R., Tschaikowski, M., Vandin, A. *White-box validation of collective adaptive systems by statistical model checking and process mining.* In **Leveraging Applications of Formal Methods, Verification and Validation**. REoCAS Colloquium in Honor of Rocco De Nicola, pages 204–222, Cham, 2025. Springer Nature Switzerland. ISBN 978-3-031-73709-1.
@@ -94,17 +94,17 @@ Research Fellow (7-month postgraduate research grant) — Sant'Anna School of Ad
 - Casaluce, R., Burattin, A., Chiaromonte, F., Vandin, A. (2023, February). *Process Mining Meets Statistical Model Checking: Towards a Novel Approach to Model Validation and Enhancement.* In **Business Process Management Workshops: BPM 2022 International Workshops**, Revised Selected Papers (pp. 243–256). Springer.
 - Casaluce, R. *Process mining meets statistical model checking to explain threat models: Novel approach to model validation and enhancement (extended abstract).* In **ICPM Doctoral Consortium and Demo Track 2022**, Bolzano, Italy, October 2022. CEUR Workshop Proceedings, vol. 3299, pp. 13–17.
 
-</details>
 
-<details>
+
+
 <summary><strong>Working paper</strong></summary>
 
 - Schmidt, T., Malhotra, A., Kaack, L., and Casaluce, R. (2023, November). *Technological Complexity, Experience Rates and Low-Carbon Innovation and Industrial Policies: A Novel Approach Leveraging Machine Learning and Patent Networks.* Presented at **APPAM Fall Research Conference 2023**.  
   https://appam.confex.com/appam/2023/meetingapp.cgi/Paper/50196
 
-</details>
 
-<details>
+
+
 <summary><strong>Presentations and talks</strong></summary>
 
 - **ESRA 2025**, Utrecht, Netherlands, 14–18 July 2025. Presentation: *“MaScoNet: A Web-Based Application for Mapping Formal and Informal Scientific Collaborations”*.
@@ -113,9 +113,7 @@ Research Fellow (7-month postgraduate research grant) — Sant'Anna School of Ad
 - **ICPM 2022**, Doctoral Consortium, Bolzano, Italy, 23–28 October 2022.
 - **DEC2H 2022** (BPM 2022), Muenster, Germany, 11–16 September 2022.
 
-</details>
 
-<details>
 <summary><strong>Peer-review activities</strong></summary>
 
 - Reviewer: Commit2Data: Big Data Handling, Analytics & Applications 2023 — https://commit2data.nl/en/
@@ -123,15 +121,13 @@ Research Fellow (7-month postgraduate research grant) — Sant'Anna School of Ad
 - Sub-reviewer: 18th International Working Conference on Variability Modelling of Software-Intensive Systems 2024 — https://vamosconf.net/2024
 - PC member: Artifact Evaluation for QEST + FORMATS 2024 — https://www.qest-formats.org/artifacts.html
 
-</details>
 
-<details>
 <summary><strong>Visiting position abroad</strong></summary>
 
 - Two-week visiting appointment at the Technical University of Denmark (DTU), December 2022, invited by Prof. Alberto Lluch Lafuente.
 - Research carried out during this stay led to the article: *“White-Box Validation of Quantitative Product Lines by Statistical Model Checking and Process Mining”.*
 
-</details>
+
 
 ---
 
