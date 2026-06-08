@@ -7,13 +7,23 @@ Applied research profile in Computer Science with experience across applied AI, 
 
 ---
 
-## Core technical profile
+## Core Technical Profile
 
-- **Applied AI / LLM evaluation:** prompt and tool-use strategy design, benchmark construction, robustness testing, evaluation pipelines, scoring/aggregation, and reporting across multiple LLM backends.
-- **NLP / ML:** transformer-based modelling (NER, sentence/rhetorical classification), experiment design, reproducible workflows, model evaluation, and error analysis.
-- **Data & software engineering for research:** Python pipelines, dataset preparation/curation, provenance tracking, web-based data collection tools (Flask/Django), PostgreSQL-backed applications.
-- **Validation & process analysis:** Statistical Model Checking, Process Mining, conformance diagnostics, traceable evaluation protocols, and white-box validation approaches.
-- **Tech stack (selected):** Python, R, SQL/PostgreSQL, PyTorch, HuggingFace, scikit-learn, pandas, numpy, matplotlib, Flask, Django, Docker, Git/GitHub, Linux; familiarity with LangChain and OpenAI API-based pipelines.
+- **Applied AI / LLM evaluation:** Prompt and tool-use strategy design, benchmark construction, robustness testing, evaluation pipelines, scoring and aggregation, and comparative reporting across multiple LLM backends, including LangChain- and OpenAI API-based workflows.
+
+- **NLP / ML:** Transformer-based modelling for tasks such as named entity recognition, sentence classification, and rhetorical classification; experiment design, reproducible workflows, model evaluation, error analysis, annotation guideline development, data labelling, and dataset curation and validation.
+
+- **Data and software engineering for research:** Python-based data-processing pipelines, dataset preparation and provenance tracking, reusable web-scraping and online data-acquisition tools—including USPTO patent scraping and YouTube crawling—and PostgreSQL-backed applications developed with Flask and Django.
+
+- **Validation and process analysis:** Statistical Model Checking, Process Mining, conformance diagnostics, traceable evaluation protocols, benchmark design, and white-box validation approaches.
+
+- **Modelling and simulation:** Agent-based modelling and discrete-event simulation using RisQFLan, QFLan, SCEL, SimPy, and Mesa.
+
+- **Geospatial and Earth Observation workflows:** openEO, Copernicus Earth Observation services, and Sentinel Hub Evalscript for satellite-data processing and analysis.
+
+- **Reproducibility and deployment:** Containerised and version-controlled research workflows using Docker, Git/GitHub, Linux, and MLflow, with experience deploying web-based applications through Heroku.
+
+- **Selected tech stack:** Python, R, SQL/PostgreSQL, PyTorch, Hugging Face Transformers, scikit-learn, pandas, NumPy, matplotlib, Flask, Django, Docker, Git/GitHub, Linux, MLflow, SimPy, Mesa, openEO, LangChain, and OpenAI API-based pipelines.
 
 ---
 
