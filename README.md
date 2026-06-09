@@ -3,7 +3,7 @@
 **Email:** rcasaluce@yahoo.co.uk  
 **GitHub:** https://github.com/rcasaluce  
 
-Applied research profile in Computer Science with experience across applied AI, NLP, LLM evaluation, geospatial tool-augmented workflows, process mining, statistical model checking, and reproducible experimental pipelines. Background spans public-sector R&D (JRC), university research, and ML/NLP projects with policy-facing applications.
+Computer scientist with a PhD in Artificial Intelligence and a background in political science and data science, applied to computational social science and policy-relevant research. My work focuses on the evaluation and validation of AI and simulation-based systems, including agentic workflows, machine learning and NLP. I develop reproducible methods, benchmarks and data pipelines for research involving textual, behavioural and geospatial data. My experience combines methodological research, applied AI and science-for-policy work at the Joint Research Centre.
 
 ---
 
