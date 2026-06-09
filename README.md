@@ -237,9 +237,3 @@ The work conducted during the visit contributed to the article *White-box valida
 - **Specialized Module on Human Health and Climate Change** — UN CC:Learn, 6 January 2018.
 - **National Adaptation Plans: Building Climate Resilience in Agriculture** — UN CC:Learn, 1 November 2017.
 
----
-
-## References
-
-- **Pieter Kempeneers** — Team Lead / Lead of Data Analytics Services Unit T.4, Joint Research Centre, European Commission. Research supervisor. [pieter.kempeneers@ec.europa.eu](mailto:pieter.kempeneers@ec.europa.eu)
-- **Rosario G. D'Agata** — Associate Professor, Department of Political and Social Sciences, University of Catania. Research supervisor. [rodagata@unict.it](mailto:rodagata@unict.it)
