@@ -46,7 +46,7 @@ Computer scientist with a PhD in Artificial Intelligence and a background in pol
 **Main activities and responsibilities:**  
 - Designed and implemented a web-based data-collection platform (Python/Flask), deployed on Heroku with a PostgreSQL backend, to collect ego-centred collaboration networks via a customizable questionnaire.
 - Contributed to survey design and sampling strategy for collecting ego-network data on scientific collaboration.  
-**Web app:** https://masconet-7287ceecf789.herokuapp.com/available_surveys  
+**Web app:** https://www.egonetworkdata.it/available_surveys
 **Code:** https://github.com/rcasaluce/MaScoNet  
 
 ### Research Scientist (Simulation Validation & Process Mining) — Doctoral Researcher | University of Pisa & Sant'Anna School of Advanced Studies, Pisa
