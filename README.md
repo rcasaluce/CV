@@ -188,7 +188,6 @@ The work conducted during the visit contributed to the article *White-box valida
 
 ## Advanced Training and Specialisation Schools
 
-- **Course on Public Policy Impact Evaluation, 4th edition** — Fondazione Bruno Kessler–IRVAPP, online, 3–24 March 2026.
 - **Lipari School on Computational Complex and Social Systems:** *Generative AI, Human Decision and Machine Prediction: Models, Algorithms, Platforms and Ethics*, Lipari, Italy, 14–20 July 2024.
 - **PhD School on Artificial Intelligence and Cybersecurity** — Sapienza University of Rome, online, December 2023.
 - **PhD AI & Society 2022 Summer School** — Pisa, Italy, 4–8 July 2022.
@@ -229,7 +228,7 @@ The work conducted during the visit contributed to the article *White-box valida
 - Excellent deadline-management skills developed while working simultaneously in two roles at Goldsmiths Library in 2019 and attending the MSc in Data Science.
 
 ### Certifications
-
+- **Course on Public Policy Impact Evaluation, 4th edition** — Fondazione Bruno Kessler–IRVAPP, online, 3–24 March 2026.
 - **DeepLearning.AI TensorFlow Developer** — DeepLearning.AI on Coursera, 10 January 2021. Courses: Introduction to TensorFlow for AI/ML/DL; Convolutional Neural Networks in TensorFlow; Natural Language Processing in TensorFlow; Sequences, Time Series and Prediction.
 - **Learning Django** — LinkedIn Learning, 15 December 2020.
 - **Advanced NLP with Python for Machine Learning** — LinkedIn Learning, 15 November 2020.
