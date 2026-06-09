@@ -10,19 +10,12 @@ Computer scientist with a PhD in Artificial Intelligence and a background in pol
 ## Core Technical Profile
 
 - **Applied AI / LLM evaluation:** Prompt and tool-use strategy design, benchmark construction, robustness testing, evaluation pipelines, scoring and aggregation, and comparative reporting across multiple LLM backends, including LangChain- and OpenAI API-based workflows.
-
 - **NLP / ML:** Transformer-based modelling for tasks such as named entity recognition, sentence classification, and rhetorical classification; experiment design, reproducible workflows, model evaluation, error analysis, annotation guideline development, data labelling, and dataset curation and validation.
-
 - **Data and software engineering for research:** Python-based data-processing pipelines, dataset preparation and provenance tracking, reusable web-scraping and online data-acquisition tools—including USPTO patent scraping and YouTube crawling—and PostgreSQL-backed applications developed with Flask and Django.
-
 - **Validation and process analysis:** Statistical Model Checking, Process Mining, conformance diagnostics, traceable evaluation protocols, benchmark design, and white-box validation approaches.
-
 - **Modelling and simulation:** Agent-based modelling and discrete-event simulation using RisQFLan, QFLan, SCEL, SimPy, and Mesa.
-
 - **Geospatial and Earth Observation workflows:** openEO, Copernicus Earth Observation services, and Sentinel Hub Evalscript for satellite-data processing and analysis.
-
 - **Reproducibility and deployment:** Containerised and version-controlled research workflows using Docker, Git/GitHub, Linux, and MLflow, with experience deploying web-based applications through Heroku.
-
 - **Selected tech stack:** Python, R, SQL/PostgreSQL, PyTorch, Hugging Face Transformers, scikit-learn, pandas, NumPy, matplotlib, Flask, Django, Docker, Git/GitHub, Linux, MLflow, SimPy, Mesa, openEO, LangChain, and OpenAI API-based pipelines.
 
 ---
@@ -177,14 +170,11 @@ Research Fellow (7-month postgraduate research grant) — Sant'Anna School of Ad
 - Critical comparison of Ecological Inference (EI) (Gary King) and survey-based approaches to estimating electoral vote flows.
 - Discussed key assumptions and sources of bias, with emphasis on ecological fallacy, aggregation bias, uncertainty/identifiability, and robustness of estimates.
 
-<details>
-<summary><strong>Specialization schools</strong></summary>
+## Specialization schools
 
 - PhD School on Artificial Intelligence and Cybersecurity, December 2023 (online), Sapienza University of Rome, Rome, Italy.
 - PhD AI & Society 2022 Summer School, Pisa, Italy, 4–8 July 2022.
 - Lipari School on Computational Complex and Social Systems — *“Generative AI, Human Decision and Machine Prediction: Models, Algorithms, Platforms and Ethics”*, Lipari Island, Italy, 14–20 July 2024.
-
-</details>
 
 ---
 
