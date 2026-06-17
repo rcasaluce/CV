@@ -1,8 +1,45 @@
 ---
 ---
 
+
+
 @import "{{ site.theme }}";
 
+/* Allarga il layout complessivo */
+.wrapper {
+  width: 1100px;
+  max-width: 95%;
+}
+
+/* Colonna laterale sinistra */
+header {
+  width: 260px;
+}
+
+/* Colonna principale del CV */
+section {
+  width: 780px;
+}
+
+/* Nasconde footer GitHub Pages */
 footer {
   display: none;
+}
+
+/* Nasconde "View the Project on GitHub" */
+p.view {
+  display: none;
+}
+
+/* Migliore resa su schermi piccoli */
+@media print, screen and (max-width: 960px) {
+  .wrapper {
+    width: auto;
+    max-width: 95%;
+  }
+
+  header,
+  section {
+    width: auto;
+  }
 }
